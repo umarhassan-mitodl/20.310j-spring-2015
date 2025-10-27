@@ -39,7 +39,6 @@
     "website": "20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015"
   },
   "course_title": "Molecular, Cellular, and Tissue Biomechanics",
-  "hide_download": true,
   "course_description": "This course develops and applies scaling laws and the methods of continuum and statistical mechanics to biomechanical phenomena over a range of length scales, from molecular to cellular to tissue or organ level.\n",
   "department_numbers": [
     "20",
@@ -53,7 +52,6 @@
     "content": "5a8ae0ab-3414-9415-adae-3127dca2e607",
     "website": "20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
